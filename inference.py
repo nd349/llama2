@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-# @Author: nikhildadheech
-# @Date:   2025-04-12 20:43:42
-# @Last Modified by:   nd349
-# @Last Modified time: 2025-04-25 15:53:14
-
-
 from typing import Optional
 import torch
 import time

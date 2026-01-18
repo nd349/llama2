@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-# @Author: nikhildadheech
-# @Date:   2025-04-11 23:18:07
-# @Last Modified by:   nikhildadheech
-# @Last Modified time: 2025-04-15 10:06:47
-
 import torch
 import torch.nn as nn
 import torch.functional as F
