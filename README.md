@@ -1,4 +1,4 @@
-# LLaMA — examples & utilities
+# Llama2 implementation from first-principles
 
 PyTorch-llama2 implementation from first-principles.
 
