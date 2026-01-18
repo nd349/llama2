@@ -48,9 +48,6 @@ python inference.py
 - transformers, accelerate, sentencepiece, safetensors (optional)
 - other utilities used by scripts in this folder (check `requirements.txt`)
 
-## Citation
+## Reference
 
 pytorch-llama (implementation reference): https://github.com/hkproj/pytorch-llama
-
-
-# llama2
